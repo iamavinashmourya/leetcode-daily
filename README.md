@@ -1,7 +1,5 @@
 # 🎯 LeetCode Solutions
 
-> Automatically synced daily with AI-generated explanations powered by Groq (Llama 3.3 70B)
-
 ## 📊 Statistics
 
 - **Total Problems Solved**: 8
