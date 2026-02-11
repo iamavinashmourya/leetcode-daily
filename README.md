@@ -1,7 +1,9 @@
+
 ## 🔥 Recent Solutions (Latest First)
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-11 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Java | [📝](l1089_DuplicateZeros.md) |
 | 2026-02-10 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Java | [📝](l896_MonotonicArray.md) |
 | 2026-02-10 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Java | [📝](l414_ThirdMaximumNumber.md) |
 | 2026-02-09 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | Java | [📝](l2974_MinimumNumberGame.md) |
@@ -13,4 +15,4 @@
 | 2026-02-07 | 2520 | [Countthe Digits That Dividea Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Java | [📝](l2520_CounttheDigitsThatDivideaNumber.md) |
 | 2026-02-07 | 387 | [First Unique Characterina String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Java | [📝](l387_FirstUniqueCharacterinaString.md) |
 
-
+---
