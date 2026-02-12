@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-12 | 1752 | [Checkif Array Is Sortedand Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Java | [📝](l1752_CheckifArrayIsSortedandRotated.md) |
 | 2026-02-11 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Java | [📝](l1089_DuplicateZeros.md) |
 | 2026-02-10 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Java | [📝](l896_MonotonicArray.md) |
 | 2026-02-10 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Java | [📝](l414_ThirdMaximumNumber.md) |
