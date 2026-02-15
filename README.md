@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-15 | 2733 | [Neither Minimumnor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | Java | [📝](l2733_NeitherMinimumnorMaximum.md) |
 | 2026-02-14 | 1688 | [Countof Matchesin Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Java | [📝](l1688_CountofMatchesinTournament.md) |
 | 2026-02-14 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | Java | [📝](l1003_CheckIfWordIsValidAfterSubstitutions.md) |
 | 2026-02-12 | 1752 | [Checkif Array Is Sortedand Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Java | [📝](l1752_CheckifArrayIsSortedandRotated.md) |
