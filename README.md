@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-17 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Java | [📝](l1046_LastStoneWeight.md) |
 | 2026-02-16 | 628 | [Maximum Productof Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Java | [📝](l628_MaximumProductofThreeNumbers.md) |
 | 2026-02-15 | 2733 | [Neither Minimumnor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | Java | [📝](l2733_NeitherMinimumnorMaximum.md) |
 | 2026-02-14 | 1688 | [Countof Matchesin Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Java | [📝](l1688_CountofMatchesinTournament.md) |
