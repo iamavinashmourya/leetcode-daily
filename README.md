@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-20 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Java | [📝](l485_MaxConsecutiveOnes.md) |
 | 2026-02-19 | 2418 | [Sortthe People](https://leetcode.com/problems/sort-the-people/) | Java | [📝](l2418_SortthePeople.md) |
 | 2026-02-18 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Java | [📝](l101_SymmetricTree.md) |
 | 2026-02-17 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Java | [📝](l1046_LastStoneWeight.md) |
