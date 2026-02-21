@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-21 | 762 | [Prime Numberof Set Bitsin Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Java | [📝](l762_PrimeNumberofSetBitsinBinaryRepresentation.md) |
 | 2026-02-20 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Java | [📝](l485_MaxConsecutiveOnes.md) |
 | 2026-02-19 | 2418 | [Sortthe People](https://leetcode.com/problems/sort-the-people/) | Java | [📝](l2418_SortthePeople.md) |
 | 2026-02-18 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Java | [📝](l101_SymmetricTree.md) |
