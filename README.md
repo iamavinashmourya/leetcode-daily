@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-22 | 122 | [Best Timeto Buyand Sell Stock I I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Java | [📝](l122_BestTimetoBuyandSellStockII.md) |
 | 2026-02-21 | 762 | [Prime Numberof Set Bitsin Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Java | [📝](l762_PrimeNumberofSetBitsinBinaryRepresentation.md) |
 | 2026-02-20 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Java | [📝](l485_MaxConsecutiveOnes.md) |
 | 2026-02-19 | 2418 | [Sortthe People](https://leetcode.com/problems/sort-the-people/) | Java | [📝](l2418_SortthePeople.md) |
