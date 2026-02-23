@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-23 | 633 | [Sumof Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Java | [📝](l633_SumofSquareNumbers.md) |
+| 2026-02-23 | 123 | [Best Timeto Buyand Sell Stock I I I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Java | [📝](l123_BestTimetoBuyandSellStockIII.md) |
 | 2026-02-22 | 122 | [Best Timeto Buyand Sell Stock I I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Java | [📝](l122_BestTimetoBuyandSellStockII.md) |
 | 2026-02-21 | 762 | [Prime Numberof Set Bitsin Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | Java | [📝](l762_PrimeNumberofSetBitsinBinaryRepresentation.md) |
 | 2026-02-20 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Java | [📝](l485_MaxConsecutiveOnes.md) |
