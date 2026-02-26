@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-26 | 566 | [Reshapethe Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Java | [📝](l566_ReshapetheMatrix.md) |
 | 2026-02-25 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Markdown | [📝](l1572_MatrixDiagonalSum.md) |
 | 2026-02-24 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-02-23 | 633 | [Sumof Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Java | [📝](l633_SumofSquareNumbers.md) |
