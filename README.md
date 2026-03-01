@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-01 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Java | [📝](l1672_RichestCustomerWealth.md) |
+| 2026-03-01 | 1295 | [Find Numberswith Even Numberof Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Java | [📝](l1295_FindNumberswithEvenNumberofDigits.md) |
 | 2026-02-28 | 922 | [Sort Array By Parity I I](https://leetcode.com/problems/sort-array-by-parity-ii/) | Java | [📝](l922_SortArrayByParityII.md) |
 | 2026-02-28 | 832 | [Flippingan Image](https://leetcode.com/problems/flipping-an-image/) | Markdown | [📝](l832_FlippinganImage.md) |
 | 2026-02-28 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Java | [📝](l21_MergeTwoSortedLists.md) |
