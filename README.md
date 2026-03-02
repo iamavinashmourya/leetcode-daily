@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-02 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Java | [📝](l242_ValidAnagram.md) |
+| 2026-03-02 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Markdown | [📝](l867_TransposeMatrix.md) |
 | 2026-03-01 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Java | [📝](l1672_RichestCustomerWealth.md) |
 | 2026-03-01 | 1295 | [Find Numberswith Even Numberof Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Java | [📝](l1295_FindNumberswithEvenNumberofDigits.md) |
 | 2026-02-28 | 922 | [Sort Array By Parity I I](https://leetcode.com/problems/sort-array-by-parity-ii/) | Java | [📝](l922_SortArrayByParityII.md) |
