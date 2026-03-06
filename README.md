@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-06 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | Java | [📝](l551_StudentAttendanceRecordI.md) |
 | 2026-03-05 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Java | [📝](l268_MissingNumber.md) |
 | 2026-03-04 | 1394 | [Find Lucky Integerinan Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Java | [📝](l1394_FindLuckyIntegerinanArray.md) |
 | 2026-03-03 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Java | [📝](l234_PalindromeLinkedList.md) |
