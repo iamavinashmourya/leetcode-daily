@@ -3,6 +3,9 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-08 | 1784 | [Checkif Binary String Hasat Most One Segmentof Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Java | [📝](l1784_CheckifBinaryStringHasatMostOneSegmentofOnes.md) |
+| 2026-03-08 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Java | [📝](l704_BinarySearch.md) |
+| 2026-03-08 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Java | [📝](l1_TwoSum.md) |
 | 2026-03-07 | 771 | [Jewelsand Stones](https://leetcode.com/problems/jewels-and-stones/) | Java | [📝](l771_JewelsandStones.md) |
 | 2026-03-06 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | Java | [📝](l551_StudentAttendanceRecordI.md) |
 | 2026-03-05 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Java | [📝](l268_MissingNumber.md) |
