@@ -3,6 +3,9 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-20 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Java | [📝](l110_BalancedBinaryTree.md) |
+| 2026-03-20 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Java | [📝](l164_MaximumGap.md) |
+| 2026-03-20 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Java | [📝](l3731_FindMissingElements.md) |
 | 2026-03-08 | 1784 | [Checkif Binary String Hasat Most One Segmentof Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | Java | [📝](l1784_CheckifBinaryStringHasatMostOneSegmentofOnes.md) |
 | 2026-03-08 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Java | [📝](l704_BinarySearch.md) |
 | 2026-03-08 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Java | [📝](l1_TwoSum.md) |
