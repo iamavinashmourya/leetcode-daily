@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-21 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Java | [📝](l20_ValidParentheses.md) |
 | 2026-03-20 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Java | [📝](l110_BalancedBinaryTree.md) |
 | 2026-03-20 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Java | [📝](l164_MaximumGap.md) |
 | 2026-03-20 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Java | [📝](l3731_FindMissingElements.md) |
