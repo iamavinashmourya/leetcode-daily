@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-24 | 219 | [Contains Duplicate I I](https://leetcode.com/problems/contains-duplicate-ii/) | Java | [📝](l219_ContainsDuplicateII.md) |
 | 2026-03-23 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Java | [📝](l189_RotateArray.md) |
 | 2026-03-22 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | Java | [📝](l561_ArrayPartition.md) |
 | 2026-03-21 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Java | [📝](l20_ValidParentheses.md) |
