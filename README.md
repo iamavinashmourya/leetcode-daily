@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-25 | 238 | [Productof Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Java | [📝](l238_ProductofArrayExceptSelf.md) |
 | 2026-03-24 | 219 | [Contains Duplicate I I](https://leetcode.com/problems/contains-duplicate-ii/) | Java | [📝](l219_ContainsDuplicateII.md) |
 | 2026-03-23 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Java | [📝](l189_RotateArray.md) |
 | 2026-03-22 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | Java | [📝](l561_ArrayPartition.md) |
