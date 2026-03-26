@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-26 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Java | [📝](l292_NimGame.md) |
+| 2026-03-26 | 83 | [Remove Duplicatesfrom Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Java | [📝](l83_RemoveDuplicatesfromSortedList.md) |
 | 2026-03-25 | 238 | [Productof Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Java | [📝](l238_ProductofArrayExceptSelf.md) |
 | 2026-03-24 | 219 | [Contains Duplicate I I](https://leetcode.com/problems/contains-duplicate-ii/) | Java | [📝](l219_ContainsDuplicateII.md) |
 | 2026-03-23 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Java | [📝](l189_RotateArray.md) |
