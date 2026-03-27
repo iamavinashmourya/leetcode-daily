@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-27 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Java | [📝](l1598_CrawlerLogFolder.md) |
 | 2026-03-26 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Java | [📝](l292_NimGame.md) |
 | 2026-03-26 | 83 | [Remove Duplicatesfrom Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Java | [📝](l83_RemoveDuplicatesfromSortedList.md) |
 | 2026-03-25 | 238 | [Productof Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Java | [📝](l238_ProductofArrayExceptSelf.md) |
