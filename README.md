@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-28 | 1154 | [Dayofthe Year](https://leetcode.com/problems/day-of-the-year/) | Java | [📝](l1154_DayoftheYear.md) |
 | 2026-03-27 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Java | [📝](l1598_CrawlerLogFolder.md) |
 | 2026-03-26 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | Java | [📝](l292_NimGame.md) |
 | 2026-03-26 | 83 | [Remove Duplicatesfrom Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Java | [📝](l83_RemoveDuplicatesfromSortedList.md) |
