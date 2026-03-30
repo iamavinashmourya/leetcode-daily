@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-30 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Java | [📝](l713_SubarrayProductLessThanK.md) |
 | 2026-03-29 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Java | [📝](l744_FindSmallestLetterGreaterThanTarget.md) |
 | 2026-03-28 | 1154 | [Dayofthe Year](https://leetcode.com/problems/day-of-the-year/) | Java | [📝](l1154_DayoftheYear.md) |
 | 2026-03-27 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Java | [📝](l1598_CrawlerLogFolder.md) |
