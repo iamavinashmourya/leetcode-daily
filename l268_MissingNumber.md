@@ -3,45 +3,38 @@
 **LeetCode Problem:** [Missing Number](https://leetcode.com/problems/missing-number/)
 
 ## Approach
-The approach to solving the "Missing Number" problem involves calculating the sum of all numbers in the array and then subtracting this sum from the sum of all numbers that should be in the array if it were complete. This difference gives us the missing number. The algorithm uses the formula for the sum of an arithmetic series to calculate the sum of all numbers that should be in the array.
+The approach used to solve the "Missing Number" problem is based on the mathematical formula for the sum of an arithmetic series. By initializing the `missing` variable to `nums.length` and then adding the difference between each index `i` and the corresponding value `nums[i]`, we effectively calculate the missing number in the sequence.
 
-Here's a step-by-step breakdown:
-1. **Step 1**: Initialize a variable `sum` to store the sum of all numbers in the input array `arr`.
-2. **Step 2**: Iterate through the input array `arr` and add each number to the `sum`.
-3. **Step 3**: Calculate the sum of all numbers that should be in the array if it were complete, using the formula `n*(n+1)/2`, where `n` is the length of the input array.
-4. **Step 4**: Calculate the missing number by subtracting the sum of the numbers in the array from the sum of all numbers that should be in the array.
+Here's a step-by-step breakdown of the logic:
+1. **Step 1**: Initialize the `missing` variable to `nums.length`, which represents the expected sum of the sequence if it were complete.
+2. **Step 2**: Iterate over the input array `nums`, and for each index `i`, calculate the difference between `i` and the corresponding value `nums[i]`.
+3. **Step 3**: Add the difference calculated in Step 2 to the `missing` variable, effectively accumulating the differences between the expected and actual values.
+4. **Step 4**: After iterating over the entire array, return the final value of `missing`, which represents the missing number in the sequence.
 
-- **Time Complexity**: The time complexity of this solution is O(n), where n is the length of the input array, because we are iterating through the array once.
-- **Space Complexity**: The space complexity of this solution is O(1), because we are using a constant amount of space to store the sum and the missing number.
+- **Time Complexity**: The time complexity of this solution is O(n), where n is the length of the input array, since we only need to iterate over the array once.
+- **Space Complexity**: The space complexity is O(1), as we only use a constant amount of space to store the `missing` variable and the loop index `i`.
 
 ## Dry Run
-Let's take the input array `[0, 1, 3]` as an example. Here's how the algorithm would execute:
+Let's take the input array `nums = [0, 1, 3]` as an example. The expected output is `2`, which is the missing number in the sequence.
 
 | Step number | Current state of variables | Action taken | Result/Output |
 | --- | --- | --- | --- |
-| 1 | `sum = 0`, `arr = [0, 1, 3]` | Initialize `sum` to 0 | `sum = 0` |
-| 2 | `sum = 0`, `arr = [0, 1, 3]` | Iterate through `arr` and add each number to `sum` | `sum = 0 + 0 + 1 + 3 = 4` |
-| 3 | `sum = 4`, `arr = [0, 1, 3]` | Calculate the sum of all numbers that should be in the array | `result = 3*(3+1)/2 = 6` |
-| 4 | `sum = 4`, `result = 6` | Calculate the missing number by subtracting `sum` from `result` | `fin = 6 - 4 = 2` |
-
-The final output of the algorithm would be `2`, which is the missing number in the input array `[0, 1, 3]`.
+| 1 | `missing = 3`, `i = 0`, `nums = [0, 1, 3]` | Initialize `missing` to `nums.length` | `missing = 3` |
+| 2 | `missing = 3`, `i = 0`, `nums[i] = 0` | Calculate `i - nums[i] = 0 - 0 = 0` and add to `missing` | `missing = 3 + 0 = 3` |
+| 3 | `missing = 3`, `i = 1`, `nums[i] = 1` | Calculate `i - nums[i] = 1 - 1 = 0` and add to `missing` | `missing = 3 + 0 = 3` |
+| 4 | `missing = 3`, `i = 2`, `nums[i] = 3` | Calculate `i - nums[i] = 2 - 3 = -1` and add to `missing` | `missing = 3 + (-1) = 2` |
+| 5 | `missing = 2` | Return the final value of `missing` | `Output = 2` |
 ## Code
 ```java
 class Solution {
-    public int missingNumber(int[] arr) {
-        
-        int sum = 0;
-        for(int i =0;i<arr.length;i++)
-        {
-            sum+=arr[i];
+    public int missingNumber(int[] nums) {
+        int missing = nums.length;
+
+        for(int i = 0; i < nums.length; i++){
+            missing += i - nums[i];
         }
 
-        int n = arr.length;
-        int result = n*(n+1)/2;
-        int fin = result - sum;
-
-        return fin;
-
+        return missing;
     }
 }
 ```
